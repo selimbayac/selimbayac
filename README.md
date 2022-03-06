@@ -89,7 +89,7 @@ No Activity tracked this Week
   
   
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/80wqmy10kz6t7qvp6ppoiuk45?si=11ffe789d2ae4b5b)
+[![Spotify](https://open.spotify.com/track/07YoPdPfhQ62iNztZvOlDY?si=73cd694b537d43ae)](https://open.spotify.com/user/80wqmy10kz6t7qvp6ppoiuk45?si=11ffe789d2ae4b5b)
 
   
   
