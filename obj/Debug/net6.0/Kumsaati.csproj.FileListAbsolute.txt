@@ -1,0 +1,15 @@
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.csproj.AssemblyReference.cache
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.AssemblyInfoInputs.cache
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.AssemblyInfo.cs
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.csproj.CoreCompileInputs.cache
+C:\Users\selim.bayac\source\repos\Kumsaati\bin\Debug\net6.0\Kumsaati.exe
+C:\Users\selim.bayac\source\repos\Kumsaati\bin\Debug\net6.0\Kumsaati.deps.json
+C:\Users\selim.bayac\source\repos\Kumsaati\bin\Debug\net6.0\Kumsaati.runtimeconfig.json
+C:\Users\selim.bayac\source\repos\Kumsaati\bin\Debug\net6.0\Kumsaati.dll
+C:\Users\selim.bayac\source\repos\Kumsaati\bin\Debug\net6.0\Kumsaati.pdb
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.dll
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\refint\Kumsaati.dll
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.pdb
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\Kumsaati.genruntimeconfig.cache
+C:\Users\selim.bayac\source\repos\Kumsaati\obj\Debug\net6.0\ref\Kumsaati.dll
