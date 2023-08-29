@@ -23,14 +23,13 @@
 
 - 👋 Hi, I’m @Selimbayac
 
-- 👀 I’m interested in Mobile App Development
+- 👀 I am interested in Mobile Application Development
 
-- 🌱 I’m currently learning Flutter/Dart and Python
+- 🌱 I am currently learning C# and MySql
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to cooperate...
 
-- 📫 How to reach me ...
-
+- 📫How can you reach me...
   
 
 ----
