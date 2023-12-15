@@ -21,16 +21,15 @@
 
   
 
-- 👋 Hi, I’m @Selimbayac
+- 👋 Hello, I'm @Selimbayac
 
-- 👀 I am interested in Mobile Application Development
+- 👀 I'm interested in desktop web uyhukama development
 
-- 🌱 I am currently learning C# and MySql
+- 🌱 I'm currently learning C# and MySql
 
 - 💞️ I want to cooperate...
 
 - 📫How can you reach me...
-  
 
 ----
 
