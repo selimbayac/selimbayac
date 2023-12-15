@@ -1,107 +1,18 @@
-### Hi there, I'm Selim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"></a>
+<h1 align="center">Merhaba 👋, ben Selim</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?kullanıcı adı =selimbayaç" alt="selimbayaç"; /></a> </p>
 
-----
+- 🌱 Şu anda öğreniyorum **Şu anda C#, MySql,PostgreSQL,SQL ,Angular ve ReactJ'leri öğreniyorum**
 
-<img  align='right'  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="230">
+- 📫 Bana nasıl ulaşabilirsiniz **selimbayac60@gmail.com**
 
-  
-
-
-  
-
-<p  align="center">
-
-<img  src="https://readme-typing-svg.herokuapp.com?font=monospace&color=ba2020&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
-
+<h3 align="left">Benimle iletişime geçin:</h3>
+<p align="left">
+<a href="https://instagram.com/selimbayac" hedef="boş"><img align="ortada" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selimbayaç"; yükseklik="30"; genişlik="40"; /></a>
 </p>
 
-  
+<h3 align="left">Diller ve Araçlar:</h3> ;
+<p align="sol";> <a href="https://angular.io" hedef="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg"; alt="açısal"; genişlik="40"; yükseklik="40"/> </a> <a href="https://www.w3schools.com/cs/" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"; alt="csharp"; genişlik="40"; yükseklik="40"/> </a> <a href="https://www.w3schools.com/css/" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"; alt="css3"; genişlik="40"; yükseklik="40"/> </a> <a href="https://dotnet.microsoft.com/" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"; alt="dotnet"; genişlik="40"; yükseklik="40"/> </a> <a href="https://www.w3.org/html/" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"; alt="html5" genişlik="40"; yükseklik="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" hedef="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"; genişlik="40"; yükseklik="40"/> </a> <a href="https://www.mysql.com/" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"; alt="mysql"; genişlik="40"; yükseklik="40"/> </a> <a href="https://www.postgresql.org" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"; genişlik="40"; yükseklik="40"/> </a> <a href="https://www.python.org" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt="python"; genişlik="40"; yükseklik="40"/> </a> <a href="https://reactjs.org/" hedef="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"; alt="tepki ver"; genişlik="40"; yükseklik="40"/> </a> </p>
 
-----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimbayac&show_icons=true&locale=en&layout=compact" alt="selimbayaç"; /></p>
 
-  
-
-- 👋 Hello, I'm @Selimbayac
-
-- 👀 I'm interested in desktop web uyhukama development
-
-- 🌱 I'm currently learning C# and MySql
-
-- 💞️ I want to cooperate...
-
-- 📫How can you reach me...
-
-----
-
-  
-
-### Connect with me:
-
-  
-
-<a  href="https://www.linkedin.com/in/selim-bayac-11966322b/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<a  href="mailto:Selimbayac60@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-  
-
-----
-
-  
-
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
-  
-
-<br>
-
-  
-
-----
-
-  
-
-## 📊 Weekly Development Breakdown
-
-  
-
-<!--START_SECTION:waka-->
-
-```text
-
-No Activity tracked this Week
-
-```
-
-<!--END_SECTION:waka-->
-
-  
-
-## Now Playing
-
-  
-  
-
-[![Spotify](https://open.spotify.com/track/07YoPdPfhQ62iNztZvOlDY?si=73cd694b537d43ae)](https://open.spotify.com/user/80wqmy10kz6t7qvp6ppoiuk45?si=11ffe789d2ae4b5b)
-
-  
-  
-
-<!---
-
-selimbayac/selimbayac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-You can click the Preview link to take a look at your changes.
-
---->
-
- 
-  
-
-
-
-
+<p> <img align="center"; src="https://github-readme-stats.vercel.app/api?username=selimbayac&show_icons=true&locale=tr" alt="selimbayaç"; /></p>
