@@ -1,14 +1,13 @@
 <h1 align="center">Selam 👋 Ben Selim Bayaç</h1>
-<h3 align="center">Yazılım geliştiriciyim. Backend temelli çalışıyorum ama frontend'ten kaçmam. Aynı zamanda felsefe, strateji ve zihin oyunlarına meraklı biriyim.</h3>
+<h3 align="center">Yazılım geliştiricisiyim. Backend odaklı çalışıyor, modern API mimarileri ve C# tabanlı sistemlerde derinleşiyorum. Frontend tarafında da tam entegrasyon sağlayacak kadar bilgi sahibiyim.</h3>
 
 ---
 
 ### 🧠 Hakkımda
-- 🎯 **Odaklandığım teknolojiler:** C#, ASP.NET Core, Blazor, MAUI  
+- 🎯 **Odaklandığım teknolojiler:** C#, ASP.NET Core, Blazor, MAUI, PostgreSQL  
 - 🧩 **Şu anda çalıştığım şey:** .NET ile cross-platform (mobil & web) uygulamalar  
-- 📌 **Projelerim:** `Shosh` (entry/blog platformu), `tarotApp`, kişisel araçlar  
 - 🔭 Geliştikçe kendimi backend mimarilerine, API tasarımlarına ve performansa veriyorum.  
-- ⚡ İlgi alanlarım: Felsefe, okültizm, beyin-zihin sistemleri, minimal yazılım estetiği.
+- 🔍 Yeni şeyler öğrenmeye açığım
 
 ---
 
