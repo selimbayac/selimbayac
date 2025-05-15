@@ -1,23 +1,52 @@
-<h1 align="center">Merhaba 👋, ben Selim</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selimbayac" alt="selimbayac" /></a> </p>
+<h1 align="center">Selam 👋 Ben Selim Bayaç</h1>
+<h3 align="center">Yazılım geliştiriciyim. Backend temelli çalışıyorum ama frontend'ten kaçmam. Aynı zamanda felsefe, strateji ve zihin oyunlarına meraklı biriyim.</h3>
 
-- 🌱 Şu anda öğreniyorum **Şu anda C#, MySql, PostgreSQL, SQL, Angular ve ReactJ'leri öğreniyorum**
+---
 
-- 📫 Bana nasıl ulaşabilirsiniz **selimbayac60@gmail.com**
+### 🧠 Hakkımda
+- 🎯 **Odaklandığım teknolojiler:** C#, ASP.NET Core, Blazor, MAUI  
+- 🧩 **Şu anda çalıştığım şey:** .NET ile cross-platform (mobil & web) uygulamalar  
+- 📌 **Projelerim:** `Shosh` (entry/blog platformu), `tarotApp`, kişisel araçlar  
+- 🔭 Geliştikçe kendimi backend mimarilerine, API tasarımlarına ve performansa veriyorum.  
+- ⚡ İlgi alanlarım: Felsefe, okültizm, beyin-zihin sistemleri, minimal yazılım estetiği.
 
-<h3 align="left">Benimle iletişime geçin:</h3>
+---
+
+### 📫 Bana ulaş:
 <p align="left">
-<a href="https://instagram.com/selimbayac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selimbayac" height="30" width="40" /></a>
+  <a href="mailto:selimbayac60@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/selimbayac" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
+---
+
+### ⚙️ Diller ve Araçlar
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <!-- Diğer diller ve araçlar buraya eklenebilir -->
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimbayac&show_icons=true&locale=en&layout=compact" alt="selimbayac" /></p>
+---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=selimbayac&show_icons=true&locale=tr" alt="selimbayac" /></p>
+### 📊 GitHub İstatistikleri
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimbayac&show_icons=true&locale=en&layout=compact" alt="en çok kullandığım diller" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=selimbayac&show_icons=true&locale=tr" alt="github istatistiklerim" />
+</p>
+
+---
+
+### 🏆 Başarı Kupaları
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=selimbayac&theme=onedark&no-frame=true&no-bg=true" alt="kupalar" />
+  </a>
+</p>
